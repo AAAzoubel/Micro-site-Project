@@ -48,11 +48,13 @@ img {
 .video-player {
     max-width: 25%;
     height: auto;
+    
+    
 }
 #videos-analysis {
     position: fixed;
-    bottom: 150px; /* Ajuste conforme necessário */
-    left: 0;
-    width: 1400px; /* Ajuste conforme necessário */
-    z-index: 1000; /* Garante que o vídeo esteja acima de outros elementos */
+    bottom: 150px; 
+    left: 50px;
+    width: 1400px; 
+    z-index: 1000; 
 }
